@@ -1,0 +1,6 @@
+Phone Interface ideas:
+- Add Contact phone number detection and creation of parallel Extensions for these numbers, with a daily(?) job to 
+  update these in case of changes in the DB.
+- Go through and declare Transactions as read-only where applicable, it will help significantly with performances on
+  reads
+- 
